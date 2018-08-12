@@ -1,5 +1,15 @@
 # AIEN02
 III AI Engineer Career Training Program #2
+* 專題發表相關資訊
+    * 時間：2018/08/24(五)09:30 ~ 12:30
+    * 地點：台北市信義路三段153號6樓
+    * 聯繫窗口：[Ryan Chung](mailto:ryan@iii.org.tw)、[Nico Lai](mailto:wl9208@iii.org.tw)
+
+* 各組資訊
+    * 請點擊各組專題名稱之連結查看專題介紹
+    * 點擊個別成員查看個人介紹
+
+
 * 第一組
   * 分類：醫療
   * 名稱：[AIder醫療顧問](https://drive.google.com/file/d/197Vv_nZo5LHmKwQ5o8kYR5gutCvLQekY/view)
