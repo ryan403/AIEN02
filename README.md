@@ -32,11 +32,11 @@ III AI Engineer Career Training Program #2
 * 第四組
   * 分類：生活
   * 名稱：Baby Monitoring 嬰兒影像監視系統
-  * 成員：林沂萱([履歷](https://www.cakeresume.com/lin-yihsuan)、[CV](https://www.cakeresume.com/yxlin))、蘇健宏、張上遠、[陳維堯](https://drive.google.com/open?id=1hYYjV3PCWeXSeyRNu-0iQf68Er9aDN_J)、[許瑞昌](https://www.cakeresume.com/s--R4tv-PVBE6fruvM8NEwg5A--/jerry800416)
+  * 成員：林沂萱([履歷](https://www.cakeresume.com/lin-yihsuan)、[CV](https://www.cakeresume.com/yxlin))、蘇健宏、[張上遠](https://www.cakeresume.com/s--8JeR7D6CMZ4OFWiEyYvW5w--/brajadra)、[陳維堯](https://drive.google.com/open?id=1hYYjV3PCWeXSeyRNu-0iQf68Er9aDN_J)、[許瑞昌](https://www.cakeresume.com/s--R4tv-PVBE6fruvM8NEwg5A--/jerry800416)
 * 第五組
   * 分類：財經
   * 名稱：FinTastic 財經預測
-  * 成員：羅懿顯 Richard、莊志賢Boson、許柏舒、[傅思齊](https://drive.google.com/file/d/1MM6zg85_movlY_09jt1_kNob4uE5MP5h/view)、王冠勛、[張傑智](https://www.cakeresume.com/s--T01jkqtlftQzMfCP4feKng--/chiehchih1110)、陳政華
+  * 成員：羅懿顯 Richard、莊志賢Boson、[許柏舒](https://www.cakeresume.com/s--_LPaGCkE6NtiKauUF4lmdg--/jamiexgw)、[傅思齊](https://drive.google.com/file/d/1MM6zg85_movlY_09jt1_kNob4uE5MP5h/view)、王冠勛、[張傑智](https://www.cakeresume.com/s--T01jkqtlftQzMfCP4feKng--/chiehchih1110)、陳政華
 * 第六組
   * 分類：交通
   * 名稱：Self-Driving Car 無人車
@@ -44,4 +44,4 @@ III AI Engineer Career Training Program #2
 * 第七組
   * 分類：商務
   * 名稱：Smart Store 無人商店
-  * 成員：賴宣翔、[游婷雅](https://drive.google.com/file/d/19zmzLxguxdSrW_Pi3PdmJaCz0fE560l0/view)、[葉冠麟](https://www.cakeresume.com/s--ZTG9_88r6cZ9P0fj5zi23w--/cctytw2000)、劉哲通、[黃意舜](https://www.cakeresume.com/s--lA8RDNbvW9bWU4WUeGYFiA--/arron)、鄭又華
+  * 成員：賴宣翔、[游婷雅](https://drive.google.com/file/d/19zmzLxguxdSrW_Pi3PdmJaCz0fE560l0/view)、[葉冠麟](https://www.cakeresume.com/s--ZTG9_88r6cZ9P0fj5zi23w--/cctytw2000)、[劉哲通](https://www.cakeresume.com/s--0fqzIHzpThcdyoNcyNmB3g--/ltfevr)、[黃意舜](https://www.cakeresume.com/s--lA8RDNbvW9bWU4WUeGYFiA--/arron)、[鄭又華](https://www.cakeresume.com/s--b1JSg6J7F-dJi6BJcYBL7A--/ln19830111)
