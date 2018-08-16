@@ -20,7 +20,7 @@ III AI Engineer Career Training Program #2
 * 第一組
   * 分類：醫療
   * 名稱：[AIder醫療顧問](https://drive.google.com/file/d/197Vv_nZo5LHmKwQ5o8kYR5gutCvLQekY/view)
-  * 成員：[孫育澤](https://drive.google.com/file/d/1c1Iy6H09I5UHccNv4_t3lgRFiBWtS42J/view)、鄭敬、[林士傑](https://drive.google.com/file/d/141R3yFpW8Kb-ziBMOimgiLerW1D0mp84/view)、[黃奕菁](https://drive.google.com/file/d/1AOiOj1H1nm-f-r1sBudnG67AjCxb2twc/view)、[孫碩得](https://drive.google.com/file/d/1BRf7MvYDtCFj_gsSBzIiMHxzct4JafMd/view)
+  * 成員：[孫育澤](https://www.cakeresume.com/mike-sun-d818d2)、鄭敬、[林士傑](https://drive.google.com/file/d/141R3yFpW8Kb-ziBMOimgiLerW1D0mp84/view)、[黃奕菁](https://drive.google.com/file/d/1AOiOj1H1nm-f-r1sBudnG67AjCxb2twc/view)、[孫碩得](https://drive.google.com/file/d/1BRf7MvYDtCFj_gsSBzIiMHxzct4JafMd/view)
 * 第二組
   * 分類：企業
   * 名稱：[智慧辦公室](https://drive.google.com/file/d/1ka2Bv3AnQviqstxfiAtb3VHG10feqxSQ/view)
