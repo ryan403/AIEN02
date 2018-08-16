@@ -31,7 +31,7 @@ III AI Engineer Career Training Program #2
   * 成員：[陳建霖](https://drive.google.com/file/d/1Yk7KkIGYIX3xIcRzE8QSfUv1Ltwkkkwg/view)、施又鈞、[鄭仲孝](https://drive.google.com/file/d/16NYWejLZYBzDNEdCqvK_jNhUjnJA-4i1/view)、林郁竣
 * 第四組
   * 分類：生活
-  * 名稱：Baby Monitoring 嬰兒影像監視系統
+  * 名稱：[Baby Monitoring 嬰兒影像監視系統](https://docs.google.com/presentation/d/11xkok0-ly8LTDtk_3UFZBTIGC3w1whSGYR-Z34Ui3Ek/edit?usp=sharing)
   * 成員：林沂萱([履歷](https://www.cakeresume.com/lin-yihsuan)、[CV](https://www.cakeresume.com/yxlin))、蘇健宏、[張上遠](https://www.cakeresume.com/s--8JeR7D6CMZ4OFWiEyYvW5w--/brajadra)、[陳維堯](https://drive.google.com/open?id=1hYYjV3PCWeXSeyRNu-0iQf68Er9aDN_J)、[許瑞昌](https://www.cakeresume.com/s--R4tv-PVBE6fruvM8NEwg5A--/jerry800416)
 * 第五組
   * 分類：財經
