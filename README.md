@@ -24,7 +24,7 @@ III AI Engineer Career Training Program #2
 * 第二組
   * 分類：企業
   * 名稱：[智慧辦公室](https://drive.google.com/file/d/1ka2Bv3AnQviqstxfiAtb3VHG10feqxSQ/view)
-  * 成員：[卓柏漢](https://www.cakeresume.com/ghostyydd)、徐大賢、[莊大衛](https://drive.google.com/file/d/1ouHImsDi0vMPwtlOgVhndt3yLfsbtpvQ/view)、[張佑丞](https://www.cakeresume.com/bravod59487)、廖妤瑄
+  * 成員：[卓柏漢](https://www.cakeresume.com/ghostyydd)、徐大賢、[莊大衛](https://drive.google.com/file/d/1eTr6-lSeUk6-2ZN54AeFM67pHVWxLR8Q/view)、[張佑丞](https://www.cakeresume.com/bravod59487)、廖妤瑄
 * 第三組
   * 分類：運動
   * 名稱：AI MLB 賽局勝率預測
