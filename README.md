@@ -116,7 +116,7 @@ Principles of Machine Learning")、[陳維堯](https://drive.google.com/open?id=
 日文N1 
 多益780分")、[傅思齊](https://drive.google.com/file/d/1MM6zg85_movlY_09jt1_kNob4uE5MP5h/view "RaspBerry Pi
 中央研究院數學所研究助理
-財務報表分析")、王冠勛、[張傑智](https://www.cakeresume.com/s--T01jkqtlftQzMfCP4feKng--/chiehchih1110 "微軟證照
+財務報表分析")、[張傑智](https://www.cakeresume.com/s--T01jkqtlftQzMfCP4feKng--/chiehchih1110 "微軟證照
 Building Interactive Prototypes using JavaScript  
 Introduction to HTML and JavaScript 
 Introduction to Python for Data Science 
@@ -126,7 +126,7 @@ Introduction to Python: Absolute Beginner")、陳政華
 * 第六組
   * 分類：交通
   * 名稱：Self-Driving Car 無人車
-  * 成員：[蔡松峻](https://www.cakeresume.com/gerald-krystal "開發耕莘醫院護理用 app-IOS、代表參與大專院校專題競賽、開發新華航高鐵加購系統及其子系統-於華航任職時、改良華航旅遊小叮嚀系統-於華航任職時、開發航廈資訊維護系統-於華航任職時、參與內部用請假Chatbot開發-Luis調教、日文N3")、蘇瑋筑、[吳重億](https://drive.google.com/file/d/1Gsq1twcM9PLDHqclKiCanE03kR-Gmoj4/view "擔任TSMC廠務工程師
+  * 成員：[蔡松峻](https://www.cakeresume.com/gerald-krystal "開發耕莘醫院護理用 app-IOS、代表參與大專院校專題競賽、開發新華航高鐵加購系統及其子系統-於華航任職時、改良華航旅遊小叮嚀系統-於華航任職時、開發航廈資訊維護系統-於華航任職時、參與內部用請假Chatbot開發-Luis調教、日文N3")、[吳重億](https://drive.google.com/file/d/1Gsq1twcM9PLDHqclKiCanE03kR-Gmoj4/view "擔任TSMC廠務工程師
  擔任NSP製程工程師
 ")、[陳重光](https://drive.google.com/file/d/1AMnhNX72C45NISpGzO0do0yTaEamp9se/view "頎邦Driver IC 產品測試工程師
        與客戶/ 廠內溝通合作
@@ -141,7 +141,7 @@ Introduction to Python for Data Science
 * 第七組
   * 分類：商務
   * 名稱：Smart Store 無人商店
-  * 成員：賴宣翔、[游婷雅](https://drive.google.com/file/d/19zmzLxguxdSrW_Pi3PdmJaCz0fE560l0/view)、[葉冠麟](https://www.cakeresume.com/s--ZTG9_88r6cZ9P0fj5zi23w--/cctytw2000)、[劉哲通](https://www.cakeresume.com/s--0fqzIHzpThcdyoNcyNmB3g--/ltfevr "微軟證照
+  * 成員：[游婷雅](https://drive.google.com/file/d/19zmzLxguxdSrW_Pi3PdmJaCz0fE560l0/view)、[葉冠麟](https://www.cakeresume.com/s--ZTG9_88r6cZ9P0fj5zi23w--/cctytw2000)、[劉哲通](https://www.cakeresume.com/s--0fqzIHzpThcdyoNcyNmB3g--/ltfevr "微軟證照
 Introduction to Python for Data Science
 Principles of Machine Learning
 Introduction to HTML and Javascript
