@@ -73,7 +73,11 @@ Japanese-Language Proficiency Test N2")、[張佑丞](https://www.cakeresume.com
 * 第四組
   * 分類：生活
   * 名稱：[Baby Monitoring 嬰兒影像監視系統](https://docs.google.com/presentation/d/11xkok0-ly8LTDtk_3UFZBTIGC3w1whSGYR-Z34Ui3Ek/edit?usp=sharing)
-  * 成員：林沂萱([履歷](https://www.cakeresume.com/lin-yihsuan)、[CV](https://www.cakeresume.com/yxlin))、蘇健宏、[張上遠](https://www.cakeresume.com/s--8JeR7D6CMZ4OFWiEyYvW5w--/brajadra)、[陳維堯](https://drive.google.com/open?id=1hYYjV3PCWeXSeyRNu-0iQf68Er9aDN_J)、[許瑞昌](https://www.cakeresume.com/s--R4tv-PVBE6fruvM8NEwg5A--/jerry800416)
+  * 成員：林沂萱([履歷](https://www.cakeresume.com/lin-yihsuan "Kantar TNS 市場研究顧問公司
+      分析解讀資料並傳寫報告
+      負責各專案進度安排及於各部門間溝通協調
+      與客戶直接溝通，解決客戶面臨之問題
+TOEIC 850分")、[CV](https://www.cakeresume.com/yxlin))、蘇健宏、[張上遠](https://www.cakeresume.com/s--8JeR7D6CMZ4OFWiEyYvW5w--/brajadra)、[陳維堯](https://drive.google.com/open?id=1hYYjV3PCWeXSeyRNu-0iQf68Er9aDN_J)、[許瑞昌](https://www.cakeresume.com/s--R4tv-PVBE6fruvM8NEwg5A--/jerry800416)
 * 第五組
   * 分類：財經
   * 名稱：FinTastic 財經預測
