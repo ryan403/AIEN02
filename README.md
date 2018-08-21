@@ -114,7 +114,7 @@ Principles of Machine Learning")、[陳維堯](https://drive.google.com/open?id=
   * 名稱：FinTastic 財經預測
   * 成員：羅懿顯 Richard、莊志賢Boson、[許柏舒](https://www.cakeresume.com/s--_LPaGCkE6NtiKauUF4lmdg--/jamiexgw "日文MIS 
 日文N1 
-多益780分")、[傅思齊](https://drive.google.com/file/d/1MM6zg85_movlY_09jt1_kNob4uE5MP5h/view ""RaspBerry Pi
+多益780分")、[傅思齊](https://drive.google.com/file/d/1MM6zg85_movlY_09jt1_kNob4uE5MP5h/view "RaspBerry Pi
 中央研究院數學所研究助理
 財務報表分析")、王冠勛、[張傑智](https://www.cakeresume.com/s--T01jkqtlftQzMfCP4feKng--/chiehchih1110 "微軟證照
 Building Interactive Prototypes using JavaScript  
