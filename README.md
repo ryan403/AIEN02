@@ -81,11 +81,15 @@ TOEIC 850分")、[CV](https://www.cakeresume.com/yxlin))、蘇健宏、[張上�
 * 第五組
   * 分類：財經
   * 名稱：FinTastic 財經預測
-  * 成員：羅懿顯 Richard、莊志賢Boson、[許柏舒](https://www.cakeresume.com/s--_LPaGCkE6NtiKauUF4lmdg--/jamiexgw)、[傅思齊](https://drive.google.com/file/d/1MM6zg85_movlY_09jt1_kNob4uE5MP5h/view)、王冠勛、[張傑智](https://www.cakeresume.com/s--T01jkqtlftQzMfCP4feKng--/chiehchih1110)、陳政華
+  * 成員：羅懿顯 Richard、莊志賢Boson、[許柏舒](https://www.cakeresume.com/s--_LPaGCkE6NtiKauUF4lmdg--/jamiexgw "日文MIS 
+日文N1 
+多益780分")、[傅思齊](https://drive.google.com/file/d/1MM6zg85_movlY_09jt1_kNob4uE5MP5h/view)、王冠勛、[張傑智](https://www.cakeresume.com/s--T01jkqtlftQzMfCP4feKng--/chiehchih1110)、陳政華
 * 第六組
   * 分類：交通
   * 名稱：Self-Driving Car 無人車
-  * 成員：[蔡松峻](https://www.cakeresume.com/gerald-krystal "開發耕莘醫院護理用 app-IOS、代表參與大專院校專題競賽、開發新華航高鐵加購系統及其子系統-於華航任職時、改良華航旅遊小叮嚀系統-於華航任職時、開發航廈資訊維護系統-於華航任職時、參與內部用請假Chatbot開發-Luis調教、日文N3")、蘇瑋筑、[吳重億](https://drive.google.com/file/d/1Gsq1twcM9PLDHqclKiCanE03kR-Gmoj4/view)、[陳重光](https://drive.google.com/file/d/1AMnhNX72C45NISpGzO0do0yTaEamp9se/view)、[蕭智鴻](https://drive.google.com/file/d/1Alj8WK_9nNz4ikRcv49trmm01M1DhAKF/view)、廖宜駿
+  * 成員：[蔡松峻](https://www.cakeresume.com/gerald-krystal "開發耕莘醫院護理用 app-IOS、代表參與大專院校專題競賽、開發新華航高鐵加購系統及其子系統-於華航任職時、改良華航旅遊小叮嚀系統-於華航任職時、開發航廈資訊維護系統-於華航任職時、參與內部用請假Chatbot開發-Luis調教、日文N3")、蘇瑋筑、[吳重億](https://drive.google.com/file/d/1Gsq1twcM9PLDHqclKiCanE03kR-Gmoj4/view "擔任TSMC廠務工程師
+ 擔任NSP製程工程師
+")、[陳重光](https://drive.google.com/file/d/1AMnhNX72C45NISpGzO0do0yTaEamp9se/view)、[蕭智鴻](https://drive.google.com/file/d/1Alj8WK_9nNz4ikRcv49trmm01M1DhAKF/view)、廖宜駿
 * 第七組
   * 分類：商務
   * 名稱：Smart Store 無人商店
