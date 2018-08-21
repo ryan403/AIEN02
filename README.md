@@ -62,7 +62,14 @@ Japanese-Language Proficiency Test N2")、[張佑丞](https://www.cakeresume.com
 * 第三組
   * 分類：運動
   * 名稱：AI MLB 賽局勝率預測
-  * 成員：[陳建霖](https://drive.google.com/file/d/1Yk7KkIGYIX3xIcRzE8QSfUv1Ltwkkkwg/view)、施又鈞、[鄭仲孝](https://drive.google.com/file/d/16NYWejLZYBzDNEdCqvK_jNhUjnJA-4i1/view)、林郁竣
+  * 成員：[陳建霖](https://drive.google.com/file/d/1whwlHPJzbGiPN6IH-Jsu_cdv0yk9l8MM/view "證照
+．Introduction to AI
+．Principles of Machine Learning
+．Introduction to HTML and JavaScript 
+．Introduction to Python for Data Science
+．Introduction to JQuery
+工作經驗
+．02/2017 ~ 06/2017 緯創資通-網站自動化測試程式開發-python")、施又鈞、[鄭仲孝](https://drive.google.com/file/d/16NYWejLZYBzDNEdCqvK_jNhUjnJA-4i1/view)、林郁竣
 * 第四組
   * 分類：生活
   * 名稱：[Baby Monitoring 嬰兒影像監視系統](https://docs.google.com/presentation/d/11xkok0-ly8LTDtk_3UFZBTIGC3w1whSGYR-Z34Ui3Ek/edit?usp=sharing)
