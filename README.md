@@ -19,7 +19,7 @@ III AI Engineer Career Training Program #2
 
 * 第一組
   * 分類：醫療
-  * 名稱：[AIder醫療顧問](https://drive.google.com/file/d/197Vv_nZo5LHmKwQ5o8kYR5gutCvLQekY/view)
+  * 名稱：[AIder醫療顧問](http://ec2-13-251-38-250.ap-southeast-1.compute.amazonaws.com/)
   * 成員：[孫育澤](https://www.cakeresume.com/mike-sun-d818d2 " 證照
 ．Deep Learning Explained
 ．Principles of Machine Learning 
@@ -63,7 +63,7 @@ DrivenData登革熱疫情預測 前10% - 501名
 DrivenData患有心臟病機率預測 前15% - 28名")
 * 第二組
   * 分類：企業
-  * 名稱：[智慧辦公室](https://drive.google.com/file/d/1ka2Bv3AnQviqstxfiAtb3VHG10feqxSQ/view)
+  * 名稱：[智慧辦公室](https://drive.google.com/file/d/1jrJ3i_qY1p-4M9CJXM-SXTi1RECJKcfr/view)
   * 成員：[卓柏漢](https://www.cakeresume.com/ghostyydd)、徐大賢、[莊大衛](https://drive.google.com/file/d/1eTr6-lSeUk6-2ZN54AeFM67pHVWxLR8Q/view "【證照】
 Introduction to AI 
 Introduction to Python for Data Science 
@@ -140,7 +140,7 @@ Introduction to Python for Data Science
 5年土木工程行擔任員工估價及實作")
 * 第七組
   * 分類：商務
-  * 名稱：Smart Store 無人商店
+  * 名稱：[Smart Store 無人商店](https://drive.google.com/file/d/1_OOcqre_kojokF9n5IJlB3A34tSBOUeA/view)
   * 成員：[游婷雅](https://drive.google.com/file/d/19zmzLxguxdSrW_Pi3PdmJaCz0fE560l0/view)、[葉冠麟](https://www.cakeresume.com/s--ZTG9_88r6cZ9P0fj5zi23w--/cctytw2000)、[劉哲通](https://www.cakeresume.com/s--0fqzIHzpThcdyoNcyNmB3g--/ltfevr "微軟證照
 Introduction to Python for Data Science
 Principles of Machine Learning
