@@ -89,7 +89,11 @@ TOEIC 850分")、[CV](https://www.cakeresume.com/yxlin))、蘇健宏、[張上�
   * 名稱：Self-Driving Car 無人車
   * 成員：[蔡松峻](https://www.cakeresume.com/gerald-krystal "開發耕莘醫院護理用 app-IOS、代表參與大專院校專題競賽、開發新華航高鐵加購系統及其子系統-於華航任職時、改良華航旅遊小叮嚀系統-於華航任職時、開發航廈資訊維護系統-於華航任職時、參與內部用請假Chatbot開發-Luis調教、日文N3")、蘇瑋筑、[吳重億](https://drive.google.com/file/d/1Gsq1twcM9PLDHqclKiCanE03kR-Gmoj4/view "擔任TSMC廠務工程師
  擔任NSP製程工程師
-")、[陳重光](https://drive.google.com/file/d/1AMnhNX72C45NISpGzO0do0yTaEamp9se/view)、[蕭智鴻](https://drive.google.com/file/d/1Alj8WK_9nNz4ikRcv49trmm01M1DhAKF/view)、廖宜駿
+")、[陳重光](https://drive.google.com/file/d/1AMnhNX72C45NISpGzO0do0yTaEamp9se/view "頎邦Driver IC 產品測試工程師
+       與客戶/ 廠內溝通合作
+       收集資料與分析良率
+       新產品導入 & 異常品管控
+TOEIC 903分")、[蕭智鴻](https://drive.google.com/file/d/1Alj8WK_9nNz4ikRcv49trmm01M1DhAKF/view)、廖宜駿
 * 第七組
   * 分類：商務
   * 名稱：Smart Store 無人商店
