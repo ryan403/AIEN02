@@ -10,7 +10,9 @@ III AI Engineer Career Training Program #2
     * 地點：
         * 上午：台北市信義路三段153號6樓
         * 中午、下午：台北市復興南路一段390號3樓休息區
-    * 聯繫窗口：[Ryan Chung](mailto:ryan@iii.org.tw)、[Nico Lai](mailto:wl9208@iii.org.tw)
+    * 聯繫窗口：
+        * [Ryan Chung](mailto:ryan@iii.org.tw) 0939-659-976
+        * [Nico Lai](mailto:wl9208@iii.org.tw) (02)6631-6666 #6593
 
 * 各組資訊
     * 請點擊各組專題名稱之連結查看專題介紹
