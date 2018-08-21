@@ -20,7 +20,24 @@ III AI Engineer Career Training Program #2
 * 第一組
   * 分類：醫療
   * 名稱：[AIder醫療顧問](https://drive.google.com/file/d/197Vv_nZo5LHmKwQ5o8kYR5gutCvLQekY/view)
-  * 成員：[孫育澤](https://www.cakeresume.com/mike-sun-d818d2)、鄭敬、[林士傑](https://drive.google.com/file/d/141R3yFpW8Kb-ziBMOimgiLerW1D0mp84/view "世界先進積體電路股份有限公司-新竹科學工業園區製程整合工程師
+  * 成員：[孫育澤](https://www.cakeresume.com/mike-sun-d818d2 " 證照
+．Deep Learning Explained
+．Principles of Machine Learning 
+．Data Science Essentials
+．Introduction to Python for Data Science
+．Introduction to Artificial Intelligence
+．Natural Language Processing - NLP
+．Ethics and Law in Data and Analytics
+．Introduction to HTML and JavaScript 
+．Introduction to jQuery 
+．Java SE 8 Programmer - OCA
+．TOEIC 670
+．JLPT N1        
+ 工作經驗
+．03/2017 ~ 02/2018
+．擎雷防偽科技 雲端專案管理師 - cloud PMP 
+．01/2016 ~ 07/2016
+．威鋒數位開發 日文行銷企劃專員-marketing assistant")、鄭敬、[林士傑](https://drive.google.com/file/d/141R3yFpW8Kb-ziBMOimgiLerW1D0mp84/view "世界先進積體電路股份有限公司-新竹科學工業園區製程整合工程師
 8吋晶圓積體電路製程整合
 25um半導體製程實驗與分析
 與客⼾/製程⼯程師溝通合作，提升wafer良率")、[黃奕菁](https://drive.google.com/file/d/1AOiOj1H1nm-f-r1sBudnG67AjCxb2twc/view)、[孫碩得](https://drive.google.com/file/d/1BRf7MvYDtCFj_gsSBzIiMHxzct4JafMd/view)
