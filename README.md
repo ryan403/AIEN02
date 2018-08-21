@@ -20,11 +20,28 @@ III AI Engineer Career Training Program #2
 * 第一組
   * 分類：醫療
   * 名稱：[AIder醫療顧問](https://drive.google.com/file/d/197Vv_nZo5LHmKwQ5o8kYR5gutCvLQekY/view)
-  * 成員：[孫育澤](https://www.cakeresume.com/mike-sun-d818d2)、鄭敬、[林士傑](https://drive.google.com/file/d/141R3yFpW8Kb-ziBMOimgiLerW1D0mp84/view)、[黃奕菁](https://drive.google.com/file/d/1AOiOj1H1nm-f-r1sBudnG67AjCxb2twc/view)、[孫碩得](https://drive.google.com/file/d/1BRf7MvYDtCFj_gsSBzIiMHxzct4JafMd/view)
+  * 成員：[孫育澤](https://www.cakeresume.com/mike-sun-d818d2)、鄭敬、[林士傑](https://drive.google.com/file/d/141R3yFpW8Kb-ziBMOimgiLerW1D0mp84/view "世界先進積體電路股份有限公司-新竹科學工業園區製程整合工程師
+8吋晶圓積體電路製程整合
+25um半導體製程實驗與分析
+與客⼾/製程⼯程師溝通合作，提升wafer良率")、[黃奕菁](https://drive.google.com/file/d/1AOiOj1H1nm-f-r1sBudnG67AjCxb2twc/view)、[孫碩得](https://drive.google.com/file/d/1BRf7MvYDtCFj_gsSBzIiMHxzct4JafMd/view)
 * 第二組
   * 分類：企業
   * 名稱：[智慧辦公室](https://drive.google.com/file/d/1ka2Bv3AnQviqstxfiAtb3VHG10feqxSQ/view)
-  * 成員：[卓柏漢](https://www.cakeresume.com/ghostyydd)、徐大賢、[莊大衛](https://drive.google.com/file/d/1eTr6-lSeUk6-2ZN54AeFM67pHVWxLR8Q/view)、[張佑丞](https://www.cakeresume.com/bravod59487)、廖妤瑄
+  * 成員：[卓柏漢](https://www.cakeresume.com/ghostyydd)、徐大賢、[莊大衛](https://drive.google.com/file/d/1eTr6-lSeUk6-2ZN54AeFM67pHVWxLR8Q/view "【證照】
+Introduction to AI 
+Introduction to Python for Data Science 
+Essential Math for Machine Learning: Python Edition
+Ethics and Law in Data and Analytics  
+Data Science Essentials  
+Principles of Machine Learning
+Deep Learning Explained  
+Reinforcement Learning Explained  
+Natural Language Processing (NLP)
+Introduction to Data Science  
+Introduction to HTML and Javascript
+Developing Big Data Solutions with Azure Machine Learning 
+Analytics Storytelling for Impact
+Japanese-Language Proficiency Test N2")、[張佑丞](https://www.cakeresume.com/bravod59487)、[廖妤瑄](https://drive.google.com/file/d/1ppzGvM65V16_qoUAApCNwymz1VBynl29/view)
 * 第三組
   * 分類：運動
   * 名稱：AI MLB 賽局勝率預測
