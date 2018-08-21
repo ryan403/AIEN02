@@ -93,4 +93,16 @@ TOEIC 850分")、[CV](https://www.cakeresume.com/yxlin))、蘇健宏、[張上�
 * 第七組
   * 分類：商務
   * 名稱：Smart Store 無人商店
-  * 成員：賴宣翔、[游婷雅](https://drive.google.com/file/d/19zmzLxguxdSrW_Pi3PdmJaCz0fE560l0/view)、[葉冠麟](https://www.cakeresume.com/s--ZTG9_88r6cZ9P0fj5zi23w--/cctytw2000)、[劉哲通](https://www.cakeresume.com/s--0fqzIHzpThcdyoNcyNmB3g--/ltfevr)、[黃意舜](https://www.cakeresume.com/s--lA8RDNbvW9bWU4WUeGYFiA--/arron)、[鄭又華](https://www.cakeresume.com/s--b1JSg6J7F-dJi6BJcYBL7A--/ln19830111)
+  * 成員：賴宣翔、[游婷雅](https://drive.google.com/file/d/19zmzLxguxdSrW_Pi3PdmJaCz0fE560l0/view)、[葉冠麟](https://www.cakeresume.com/s--ZTG9_88r6cZ9P0fj5zi23w--/cctytw2000)、[劉哲通](https://www.cakeresume.com/s--0fqzIHzpThcdyoNcyNmB3g--/ltfevr)、[黃意舜](https://www.cakeresume.com/s--lA8RDNbvW9bWU4WUeGYFiA--/arron)、[鄭又華](https://www.cakeresume.com/s--b1JSg6J7F-dJi6BJcYBL7A--/ln19830111 "證照
+全民英檢
+Maryland University Intensive english program 
+恆逸python程式語言結訓證書
+Ethics and Law in Data and Analytics 
+Introduction to HTML and Javascript 
+Introduction to Python for Data Science 
+Introduction to Python: Absolute Beginner 
+Principles of Machine Learning Certificate
+Introduction to Artificial Intelligence 
+工作經驗
+海洋大學生物科技實驗室-基因轉殖
+台灣省體育總會助理")
