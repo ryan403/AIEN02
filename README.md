@@ -48,7 +48,7 @@ Principles of Machine Learning
 礁溪老爺酒店櫃檯服務人員")、[林士傑](https://drive.google.com/file/d/141R3yFpW8Kb-ziBMOimgiLerW1D0mp84/view "世界先進積體電路股份有限公司-新竹科學工業園區製程整合工程師
 8吋晶圓積體電路製程整合
 25um半導體製程實驗與分析
-與客⼾/製程⼯程師溝通合作，提升wafer良率")、[黃奕菁](https://drive.google.com/file/d/1AOiOj1H1nm-f-r1sBudnG67AjCxb2twc/view)、[孫碩得](https://drive.google.com/file/d/1BRf7MvYDtCFj_gsSBzIiMHxzct4JafMd/view "微軟AI相關證照
+與客⼾/製程⼯程師溝通合作，提升wafer良率")、[黃奕菁](https://www.cakeresume.com/s--84YrCwDujIe8217j4GcLtQ--/gim227)、[孫碩得](https://drive.google.com/file/d/1BRf7MvYDtCFj_gsSBzIiMHxzct4JafMd/view "微軟AI相關證照
 Principles of Machine Learning
 Introduction to Artificial Intelligence
 Data Science Essentials
