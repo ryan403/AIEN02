@@ -85,7 +85,7 @@ Introduction to Python for Data Science
 Principles of Machine Learning")、[廖妤瑄](https://drive.google.com/file/d/1ppzGvM65V16_qoUAApCNwymz1VBynl29/view)
 * 第三組
   * 分類：運動
-  * 名稱：AI MLB 賽局勝率預測
+  * 名稱：[AI MLB 賽局勝率預測](http://ec2-18-206-226-240.compute-1.amazonaws.com/)
   * 成員：[陳建霖](https://drive.google.com/file/d/1whwlHPJzbGiPN6IH-Jsu_cdv0yk9l8MM/view "證照
 ．Introduction to AI
 ．Principles of Machine Learning
