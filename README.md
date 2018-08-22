@@ -63,6 +63,9 @@ Introduction to jQuery
 競賽經驗
 DrivenData登革熱疫情預測 前10% - 501名
 DrivenData患有心臟病機率預測 前15% - 28名")
+
+![AIder](http://ec2-13-251-38-250.ap-southeast-1.compute.amazonaws.com/static/img/970x970/abc.jpg)
+
 * 第二組
   * 分類：企業
   * 名稱：[智慧辦公室](https://drive.google.com/file/d/14GlkGBBEndqEvGqNZt1Ba55QChb3EFVn/view)
@@ -83,6 +86,9 @@ Analytics Storytelling for Impact
 Japanese-Language Proficiency Test N2")、[張佑丞](https://www.cakeresume.com/bravod59487 "微軟證照
 Introduction to Python for Data Science
 Principles of Machine Learning")、[廖妤瑄](https://drive.google.com/file/d/1ppzGvM65V16_qoUAApCNwymz1VBynl29/view)
+
+![智慧辦公室](https://image.ibb.co/kzZefz/2018_08_22_11_35_56.png)
+
 * 第三組
   * 分類：運動
   * 名稱：[AI MLB 賽局勝率預測](http://ec2-18-206-226-240.compute-1.amazonaws.com/)
@@ -101,6 +107,9 @@ Principles of Machine Learning
 工作經歷
 融程電訊電子工程師
 台灣房屋業務專員")、林郁竣
+
+![AI MLB](https://image.ibb.co/gNmdOK/2018_08_22_11_38_30.png)
+
 * 第四組
   * 分類：生活
   * 名稱：[Baby Monitoring 嬰兒影像監視系統](https://docs.google.com/presentation/d/11xkok0-ly8LTDtk_3UFZBTIGC3w1whSGYR-Z34Ui3Ek/edit?usp=sharing)
@@ -111,6 +120,9 @@ Principles of Machine Learning
 TOEIC 850分")、[CV](https://www.cakeresume.com/yxlin))、蘇健宏、[張上遠](https://www.cakeresume.com/s--8JeR7D6CMZ4OFWiEyYvW5w--/brajadra "微軟證照
 Introduction to Python for Data Science
 Principles of Machine Learning")、[陳維堯](https://drive.google.com/open?id=1hYYjV3PCWeXSeyRNu-0iQf68Er9aDN_J)、[許瑞昌](https://www.cakeresume.com/s--R4tv-PVBE6fruvM8NEwg5A--/jerry800416)
+
+![Baby Monitoring](https://image.ibb.co/bszXiK/2018_08_22_11_39_49.png)
+
 * 第五組
   * 分類：財經
   * 名稱：FinTastic 財經預測
@@ -125,6 +137,9 @@ Introduction to Python for Data Science
 Principles of Machine Learning 
 Designing a Technical Solution  
 Introduction to Python: Absolute Beginner")、陳政華
+
+![FinTastic](https://image.ibb.co/ienPxe/Fin_Tastic.png)
+
 * 第六組
   * 分類：交通
   * 名稱：Self-Driving Car 無人車
@@ -140,6 +155,10 @@ Raspberry pi 應用
 Introduction to Python for Data Science
 工作經驗
 5年土木工程行擔任員工估價及實作")
+
+![Self-Driving Car](https://image.ibb.co/huGZxe/2018_08_22_11_42_28.png)
+
+
 * 第七組
   * 分類：商務
   * 名稱：[Smart Store 無人商店](https://drive.google.com/file/d/1_OOcqre_kojokF9n5IJlB3A34tSBOUeA/view)
@@ -170,3 +189,5 @@ Introduction to Artificial Intelligence
 工作經驗
 海洋大學生物科技實驗室-基因轉殖
 台灣省體育總會助理")
+
+![Smart Store](https://image.ibb.co/e1kzVz/2018_08_22_11_43_58.png)
