@@ -65,7 +65,7 @@ DrivenData登革熱疫情預測 前10% - 501名
 DrivenData患有心臟病機率預測 前15% - 28名")
 * 第二組
   * 分類：企業
-  * 名稱：[智慧辦公室](https://drive.google.com/file/d/1jrJ3i_qY1p-4M9CJXM-SXTi1RECJKcfr/view)
+  * 名稱：[智慧辦公室](https://drive.google.com/file/d/14GlkGBBEndqEvGqNZt1Ba55QChb3EFVn/view)
   * 成員：[卓柏漢](https://www.cakeresume.com/ghostyydd)、徐大賢、[莊大衛](https://drive.google.com/file/d/1eTr6-lSeUk6-2ZN54AeFM67pHVWxLR8Q/view "【證照】
 Introduction to AI 
 Introduction to Python for Data Science 
