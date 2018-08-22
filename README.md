@@ -3,7 +3,7 @@ III AI Engineer Career Training Program #2
 https://github.com/ryan403/AIEN02/
 
 * 專題發表相關資訊
-    * 日期：2018/08/24(五
+    * 日期：2018/08/24(五)
     * 流程：
         * 09:00 ~ 09:30 報到
         * 09:30 ~ 12:30 專題發表
