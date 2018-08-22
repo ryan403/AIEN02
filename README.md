@@ -1,5 +1,7 @@
 # AIEN02
-III AI Engineer Career Training Program #2
+III AI Engineer Career Training Program #2    
+https://github.com/ryan403/AIEN02/
+
 * 專題發表相關資訊
     * 時間：2018/08/24(五)09:30 ~ 12:30
     * 流程：
