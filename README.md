@@ -71,7 +71,7 @@ DrivenData患有心臟病機率預測 前15% - 28名")
 * 第二組
   * 分類：企業
   * 名稱：[智慧辦公室](https://drive.google.com/file/d/14GlkGBBEndqEvGqNZt1Ba55QChb3EFVn/view)
-  * 成員：[卓柏漢](https://www.cakeresume.com/ghostyydd)、徐大賢、[莊大衛](https://drive.google.com/file/d/1eTr6-lSeUk6-2ZN54AeFM67pHVWxLR8Q/view "【證照】
+  * 成員：[卓柏漢](https://drive.google.com/file/d/15tj-tF5baO3-sPTLir5TAqqQGSUE3qMr/view)、徐大賢、[莊大衛](https://drive.google.com/file/d/1eTr6-lSeUk6-2ZN54AeFM67pHVWxLR8Q/view "【證照】
 Introduction to AI 
 Introduction to Python for Data Science 
 Essential Math for Machine Learning: Python Edition
@@ -85,7 +85,7 @@ Introduction to Data Science
 Introduction to HTML and Javascript
 Developing Big Data Solutions with Azure Machine Learning 
 Analytics Storytelling for Impact
-Japanese-Language Proficiency Test N2")、[張佑丞](https://www.cakeresume.com/bravod59487 "微軟證照
+Japanese-Language Proficiency Test N2")、[張佑丞](https://drive.google.com/file/d/1ZXUaJcAEEueU31kEJ647JXBbAXm3clUN/view "微軟證照
 Introduction to Python for Data Science
 Principles of Machine Learning")、[廖妤瑄](https://drive.google.com/file/d/1ppzGvM65V16_qoUAApCNwymz1VBynl29/view)
 
@@ -94,7 +94,7 @@ Principles of Machine Learning")、[廖妤瑄](https://drive.google.com/file/d/1
 * 第三組
   * 分類：運動
   * 名稱：[AI MLB 賽局勝率預測](http://ec2-18-206-226-240.compute-1.amazonaws.com/)
-  * 成員：[陳建霖](https://drive.google.com/file/d/1whwlHPJzbGiPN6IH-Jsu_cdv0yk9l8MM/view "證照
+  * 成員：[陳建霖](https://drive.google.com/file/d/1iu2_JF24Uv-H9LrxL3ccBjpPZS540PhF/view "證照
 ．Introduction to AI
 ．Principles of Machine Learning
 ．Introduction to HTML and JavaScript 
@@ -119,9 +119,9 @@ Principles of Machine Learning
       分析解讀資料並傳寫報告
       負責各專案進度安排及於各部門間溝通協調
       與客戶直接溝通，解決客戶面臨之問題
-TOEIC 850分")、[CV](https://www.cakeresume.com/yxlin))、[蘇健宏](https://www.cakeresume.com/s--rvkzIKrV1AyiTEscfj6gMQ--/neil-su)、[張上遠](https://www.cakeresume.com/s--8JeR7D6CMZ4OFWiEyYvW5w--/brajadra "微軟證照
+TOEIC 850分")、[CV](https://drive.google.com/file/d/1Jc2H9coXgA7ywPxzCcJ3uo-lsiiY7imo/view))、[蘇健宏](https://www.cakeresume.com/s--rvkzIKrV1AyiTEscfj6gMQ--/neil-su)、[張上遠](https://www.cakeresume.com/s--8JeR7D6CMZ4OFWiEyYvW5w--/brajadra "微軟證照
 Introduction to Python for Data Science
-Principles of Machine Learning")、[陳維堯](https://drive.google.com/open?id=1hYYjV3PCWeXSeyRNu-0iQf68Er9aDN_J)、[許瑞昌](https://www.cakeresume.com/s--R4tv-PVBE6fruvM8NEwg5A--/jerry800416)
+Principles of Machine Learning")、[陳維堯](https://drive.google.com/open?id=1hYYjV3PCWeXSeyRNu-0iQf68Er9aDN_J)、[許瑞昌](https://drive.google.com/file/d/1ZcoBR-phpUpego2c9682eZbO9I8EqjcP/view)
 
 ![Baby Monitoring](https://image.ibb.co/bszXiK/2018_08_22_11_39_49.png)
 
@@ -130,9 +130,8 @@ Principles of Machine Learning")、[陳維堯](https://drive.google.com/open?id=
   * 名稱：FinTastic 財經預測
   * 成員：羅懿顯 Richard、莊志賢Boson、[許柏舒](https://www.cakeresume.com/s--_LPaGCkE6NtiKauUF4lmdg--/jamiexgw "日文MIS 
 日文N1 
-多益780分")、[傅思齊](https://drive.google.com/file/d/1MM6zg85_movlY_09jt1_kNob4uE5MP5h/view "RaspBerry Pi
-中央研究院數學所研究助理
-財務報表分析")、[張傑智](https://www.cakeresume.com/s--T01jkqtlftQzMfCP4feKng--/chiehchih1110 "微軟證照
+多益780分")、傅思齊([履歷](https://drive.google.com/file/d/1MaEG8NFgbcVHlaq4sGbyugqnmPLecjtd/view "中央研究院數學所研究助理
+財務報表分析")、[CV](https://drive.google.com/file/d/1865E2QvIwchY7LPXe_Nt6zMXi36Bm3y0/view))、[張傑智](https://www.cakeresume.com/s--T01jkqtlftQzMfCP4feKng--/chiehchih1110 "微軟證照
 Building Interactive Prototypes using JavaScript  
 Introduction to HTML and JavaScript 
 Introduction to Python for Data Science 
@@ -145,7 +144,7 @@ Introduction to Python: Absolute Beginner")
 * 第六組
   * 分類：交通
   * 名稱：Self-Driving Car 無人車
-  * 成員：[蔡松峻](https://www.cakeresume.com/gerald-krystal "開發耕莘醫院護理用 app-IOS、代表參與大專院校專題競賽、開發新華航高鐵加購系統及其子系統-於華航任職時、改良華航旅遊小叮嚀系統-於華航任職時、開發航廈資訊維護系統-於華航任職時、參與內部用請假Chatbot開發-Luis調教、日文N3")、[吳重億](https://drive.google.com/file/d/1Gsq1twcM9PLDHqclKiCanE03kR-Gmoj4/view "擔任TSMC廠務工程師
+  * 成員：[蔡松峻](https://www.cakeresume.com/gerald-krystal "開發耕莘醫院護理用 app-IOS、代表參與大專院校專題競賽、開發新華航高鐵加購系統及其子系統-於華航任職時、改良華航旅遊小叮嚀系統-於華航任職時、開發航廈資訊維護系統-於華航任職時、參與內部用請假Chatbot開發-Luis調教、日文N3")、[吳重億](https://drive.google.com/file/d/1cVgzxcpM1U8Hzw8-VsBAYBazRyGWJA5r/view "擔任TSMC廠務工程師
  擔任NSP製程工程師
 ")、[陳重光](https://drive.google.com/file/d/1AMnhNX72C45NISpGzO0do0yTaEamp9se/view "頎邦Driver IC 產品測試工程師
        與客戶/ 廠內溝通合作
@@ -164,21 +163,21 @@ Introduction to Python for Data Science
 * 第七組
   * 分類：商務
   * 名稱：[Smart Store 無人商店](https://drive.google.com/file/d/1_OOcqre_kojokF9n5IJlB3A34tSBOUeA/view)
-  * 成員：[游婷雅](https://drive.google.com/file/d/19zmzLxguxdSrW_Pi3PdmJaCz0fE560l0/view)、[葉冠麟](https://www.cakeresume.com/s--ZTG9_88r6cZ9P0fj5zi23w--/cctytw2000)、[劉哲通](https://www.cakeresume.com/s--0fqzIHzpThcdyoNcyNmB3g--/ltfevr "微軟證照
+  * 成員：[游婷雅](https://drive.google.com/file/d/19zmzLxguxdSrW_Pi3PdmJaCz0fE560l0/view)、[葉冠麟](https://drive.google.com/file/d/183cqiDtwdJl9z10BHN5oukBzdN0Y5zJ9/view)、[劉哲通](https://drive.google.com/file/d/1O6NlwJUjX6xLaudwV52CwRm8lRMWrm7F/view "微軟證照
 Introduction to Python for Data Science
 Principles of Machine Learning
 Introduction to HTML and Javascript
 Building Interactive Prototypes using JavaScript
 工作經驗
 盛旭國際IT部門軟體設計工程師
-千美科技軟體設計工程師")、[黃意舜](https://www.cakeresume.com/arron "微軟證照
+千美科技軟體設計工程師")、[黃意舜](https://drive.google.com/file/d/1hmSXDcSw-mkvg28b5N78bZgs3qojUPjh/view "微軟證照
 Introduction to Python for Data Science
 Principles of Machine Learning
 Introduction to HTML and Javascript
 Building Interactive Prototypes using JavaScript
 工作經驗
 友達光電CF製程工程師
-")、[鄭又華](https://www.cakeresume.com/s--b1JSg6J7F-dJi6BJcYBL7A--/ln19830111 "證照
+")、[鄭又華](https://drive.google.com/file/d/1YykdPI9YAn5RpeW0yCK1m1iAl7uXmlip/view "證照
 全民英檢
 Maryland University Intensive english program 
 恆逸python程式語言結訓證書
