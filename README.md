@@ -143,7 +143,7 @@ Introduction to Python: Absolute Beginner")
 
 * 第六組
   * 分類：交通
-  * 名稱：Self-Driving Car 無人車
+  * 名稱：[Self-Driving Car 無人車](https://drive.google.com/file/d/1dzwVVYl04Gv_yCDBF-P7scvI05PMn9Gd/view)
   * 成員：[蔡松峻](https://www.cakeresume.com/gerald-krystal "開發耕莘醫院護理用 app-IOS、代表參與大專院校專題競賽、開發新華航高鐵加購系統及其子系統-於華航任職時、改良華航旅遊小叮嚀系統-於華航任職時、開發航廈資訊維護系統-於華航任職時、參與內部用請假Chatbot開發-Luis調教、日文N3")、[吳重億](https://drive.google.com/file/d/1cVgzxcpM1U8Hzw8-VsBAYBazRyGWJA5r/view "擔任TSMC廠務工程師
  擔任NSP製程工程師
 ")、[陳重光](https://drive.google.com/file/d/1AMnhNX72C45NISpGzO0do0yTaEamp9se/view "頎邦Driver IC 產品測試工程師
