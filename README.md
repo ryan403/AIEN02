@@ -119,7 +119,7 @@ Principles of Machine Learning
       分析解讀資料並傳寫報告
       負責各專案進度安排及於各部門間溝通協調
       與客戶直接溝通，解決客戶面臨之問題
-TOEIC 850分")、[CV](https://www.cakeresume.com/yxlin))、蘇健宏、[張上遠](https://www.cakeresume.com/s--8JeR7D6CMZ4OFWiEyYvW5w--/brajadra "微軟證照
+TOEIC 850分")、[CV](https://www.cakeresume.com/yxlin))、[蘇健宏](https://www.cakeresume.com/s--rvkzIKrV1AyiTEscfj6gMQ--/neil-su)、[張上遠](https://www.cakeresume.com/s--8JeR7D6CMZ4OFWiEyYvW5w--/brajadra "微軟證照
 Introduction to Python for Data Science
 Principles of Machine Learning")、[陳維堯](https://drive.google.com/open?id=1hYYjV3PCWeXSeyRNu-0iQf68Er9aDN_J)、[許瑞昌](https://www.cakeresume.com/s--R4tv-PVBE6fruvM8NEwg5A--/jerry800416)
 
