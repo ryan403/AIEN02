@@ -150,7 +150,7 @@ Introduction to Python: Absolute Beginner")
        與客戶/ 廠內溝通合作
        收集資料與分析良率
        新產品導入 & 異常品管控
-TOEIC 903分")、[蕭智鴻](https://drive.google.com/file/d/1-aiiNFF5N96sa1FKow5AO_Z3nCeAlmez/view)、[廖宜駿](https://www.cakeresume.com/s--DBHXy8GiDpG6qJZjxgR-SA--/catonleft0216 "硬體實作
+TOEIC 903分")、[蕭智鴻](https://drive.google.com/file/d/1gIBVfL0Y-GAcbUjn8u-Cufe39NtcoE_g/view)、[廖宜駿](https://www.cakeresume.com/s--DBHXy8GiDpG6qJZjxgR-SA--/catonleft0216 "硬體實作
 Raspberry pi 應用
 微軟證照
 Introduction to Python for Data Science
