@@ -108,7 +108,7 @@ Introduction to Artificial Intelligence
 Principles of Machine Learning
 工作經歷
 融程電訊電子工程師
-台灣房屋業務專員")、林郁竣
+台灣房屋業務專員")、[林郁竣](https://www.cakeresume.com/s--HyQjDan-l-5MR0mxBO7QYw--/tinolin1986)
 
 ![AI MLB](https://image.ibb.co/gNmdOK/2018_08_22_11_38_30.png)
 
