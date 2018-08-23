@@ -41,7 +41,7 @@ https://github.com/ryan403/AIEN02/
 ．03/2017 ~ 02/2018
 ．擎雷防偽科技 雲端專案管理師 - cloud PMP 
 ．01/2016 ~ 07/2016
-．威鋒數位開發 日文行銷企劃專員-marketing assistant")、[鄭敬](https://github.com/ryan403/AIEN02/ "微軟證照
+．威鋒數位開發 日文行銷企劃專員-marketing assistant")、[鄭敬](https://drive.google.com/file/d/1Nw7Xg8DEkp6zOtW7tKyW6_G5mUSpcOBk/view "微軟證照
 Introduction to Python for Data Science
 Principles of Machine Learning 
 工作經驗
