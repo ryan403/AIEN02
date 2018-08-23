@@ -138,7 +138,7 @@ Introduction to HTML and JavaScript
 Introduction to Python for Data Science 
 Principles of Machine Learning 
 Designing a Technical Solution  
-Introduction to Python: Absolute Beginner")、陳政華
+Introduction to Python: Absolute Beginner")
 
 ![FinTastic](https://image.ibb.co/ienPxe/Fin_Tastic.png)
 
