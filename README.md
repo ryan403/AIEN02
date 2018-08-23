@@ -119,9 +119,9 @@ Principles of Machine Learning
       分析解讀資料並傳寫報告
       負責各專案進度安排及於各部門間溝通協調
       與客戶直接溝通，解決客戶面臨之問題
-TOEIC 850分")、[CV](https://drive.google.com/file/d/1Jc2H9coXgA7ywPxzCcJ3uo-lsiiY7imo/view))、[蘇健宏](https://www.cakeresume.com/s--rvkzIKrV1AyiTEscfj6gMQ--/neil-su)、[張上遠](https://www.cakeresume.com/s--8JeR7D6CMZ4OFWiEyYvW5w--/brajadra "微軟證照
+TOEIC 850分")、[CV](https://drive.google.com/file/d/1Jc2H9coXgA7ywPxzCcJ3uo-lsiiY7imo/view))、[蘇健宏](https://www.cakeresume.com/s--rvkzIKrV1AyiTEscfj6gMQ--/neil-su)、[張上遠](https://drive.google.com/file/d/1IusxvQBaIbznoEJUO1P6iawYw9YHYHsB/view "微軟證照
 Introduction to Python for Data Science
-Principles of Machine Learning")、[陳維堯](https://drive.google.com/open?id=1hYYjV3PCWeXSeyRNu-0iQf68Er9aDN_J)、[許瑞昌](https://drive.google.com/file/d/1ZcoBR-phpUpego2c9682eZbO9I8EqjcP/view)
+Principles of Machine Learning")、[陳維堯](https://drive.google.com/file/d/1hYYjV3PCWeXSeyRNu-0iQf68Er9aDN_J/view)、[許瑞昌](https://drive.google.com/file/d/1ZcoBR-phpUpego2c9682eZbO9I8EqjcP/view)
 
 ![Baby Monitoring](https://image.ibb.co/bszXiK/2018_08_22_11_39_49.png)
 
@@ -131,7 +131,7 @@ Principles of Machine Learning")、[陳維堯](https://drive.google.com/open?id=
   * 成員：羅懿顯 Richard、莊志賢Boson、[許柏舒](https://www.cakeresume.com/s--_LPaGCkE6NtiKauUF4lmdg--/jamiexgw "日文MIS 
 日文N1 
 多益780分")、傅思齊([履歷](https://drive.google.com/file/d/1MaEG8NFgbcVHlaq4sGbyugqnmPLecjtd/view "中央研究院數學所研究助理
-財務報表分析")、[CV](https://drive.google.com/file/d/1865E2QvIwchY7LPXe_Nt6zMXi36Bm3y0/view))、[張傑智](https://www.cakeresume.com/s--T01jkqtlftQzMfCP4feKng--/chiehchih1110 "微軟證照
+財務報表分析")、[CV](https://drive.google.com/file/d/1865E2QvIwchY7LPXe_Nt6zMXi36Bm3y0/view))、[張傑智](https://drive.google.com/file/d/1uysiQjackpFUzk0rIU0O_wmLlEJeR8Hy/view "微軟證照
 Building Interactive Prototypes using JavaScript  
 Introduction to HTML and JavaScript 
 Introduction to Python for Data Science 
@@ -150,7 +150,7 @@ Introduction to Python: Absolute Beginner")
        與客戶/ 廠內溝通合作
        收集資料與分析良率
        新產品導入 & 異常品管控
-TOEIC 903分")、[蕭智鴻](https://drive.google.com/file/d/1gIBVfL0Y-GAcbUjn8u-Cufe39NtcoE_g/view)、[廖宜駿](https://www.cakeresume.com/s--DBHXy8GiDpG6qJZjxgR-SA--/catonleft0216 "硬體實作
+TOEIC 903分")、[蕭智鴻](https://drive.google.com/file/d/1gIBVfL0Y-GAcbUjn8u-Cufe39NtcoE_g/view)、[廖宜駿](https://www.cakeresume.com/catonleft0216 "硬體實作
 Raspberry pi 應用
 微軟證照
 Introduction to Python for Data Science
