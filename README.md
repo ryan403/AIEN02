@@ -127,7 +127,7 @@ Principles of Machine Learning")、[陳維堯](https://drive.google.com/file/d/1
 
 * 第五組
   * 分類：財經
-  * 名稱：FinTastic 財經預測
+  * 名稱：[FinTastic 財經預測](https://docs.google.com/presentation/d/1A1rjgUIx28z4LdV8p8mcJLzF_PvQsPIuWvz1B-Xv11k/edit#slide=id.p)
   * 成員：羅懿顯 Richard、莊志賢Boson、[許柏舒](https://www.cakeresume.com/s--_LPaGCkE6NtiKauUF4lmdg--/jamiexgw "日文MIS 
 日文N1 
 多益780分")、傅思齊([履歷](https://drive.google.com/file/d/1MaEG8NFgbcVHlaq4sGbyugqnmPLecjtd/view "中央研究院數學所研究助理
